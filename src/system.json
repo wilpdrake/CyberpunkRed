@@ -639,6 +639,6 @@
   "background": "systems/cyberpunk-red-core/images/Foundry-Background.webp",
   "url": "https://github.com/wilpdrake/CyberpunkRed",
   "manifest": "https://raw.githubusercontent.com/wilpdrake/CyberpunkRed/master/src/system.json",
-  "download": "0.0.1",
+  "download": "https://github.com/wilpdrake/CyberpunkRed/releases/download/0.0.1/CyberpunkRed.rar",
   "license": "GPL v3"
 }
