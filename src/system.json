@@ -1,5 +1,5 @@
 {
-  "version": "DUMMY_VALUE",
+  "version": "0.0.1",
   "flags": {
     "featureVideoURL": ""
   },
@@ -637,8 +637,8 @@
   "primaryTokenAttribute": "derivedStats.hp",
   "secondaryTokenAttribute": null,
   "background": "systems/cyberpunk-red-core/images/Foundry-Background.webp",
-  "url": "https://gitlab.com/cyberpunk-red-team/fvtt-cyberpunk-red-core",
-  "manifest": "https://gitlab.com/api/v4/projects/22820629/packages/generic/fvtt-cyberpunk-red-core/latest/system.json",
-  "download": "DUMMY_VALUE",
+  "url": "https://github.com/wilpdrake/CyberpunkRed",
+  "manifest": "https://raw.githubusercontent.com/wilpdrake/CyberpunkRed/master/src/system.json",
+  "download": "0.0.1",
   "license": "GPL v3"
 }
