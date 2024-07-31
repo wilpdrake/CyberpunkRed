@@ -1,9 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "0.89.0",
   "flags": {
     "featureVideoURL": ""
   },
-  "id": "cyberpunk-red-core",
+  "id": "cyberpunkred",
   "title": "Cyberpunk RED - CORE",
   "description": "Implementation of the Cyberpunk RED, Core Rules, for FVTT",
   "compatibility": {
@@ -15,7 +15,7 @@
   "authors": [
     {
       "name": "The Project Red Team",
-      "url": "https://gitlab.com/cyberpunk-red-team/fvtt-cyberpunk-red-core"
+      "url": "https://github.com/wilpdrake/CyberpunkRed"
     }
   ],
   "esmodules": ["cpr.js"],
@@ -638,7 +638,7 @@
   "secondaryTokenAttribute": null,
   "background": "systems/cyberpunk-red-core/images/Foundry-Background.webp",
   "url": "https://github.com/wilpdrake/CyberpunkRed",
-  "manifest": "https://raw.githubusercontent.com/wilpdrake/CyberpunkRed/master/src/system.json",
+  "manifest": "https://github.com/wilpdrake/CyberpunkRed/releases/download/0.0.1/system.json",
   "download": "https://github.com/wilpdrake/CyberpunkRed/releases/download/0.0.1/CyberpunkRed.rar",
   "license": "GPL v3"
 }
